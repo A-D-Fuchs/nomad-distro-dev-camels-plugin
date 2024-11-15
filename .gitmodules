@@ -1,3 +1,9 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "nomad-parser-plugins-camels-files"]
+	path = nomad-parser-plugins-camels-files
+	url = https://github.com/A-D-Fuchs/nomad-parser-plugins-camels-files
+[submodule "packages/nomad-parser-plugins-camels-files"]
+	path = packages/nomad-parser-plugins-camels-files
+	url = https://github.com/A-D-Fuchs/nomad-parser-plugins-camels-files
